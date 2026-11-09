@@ -1,0 +1,89 @@
+{
+ "titel": "Informationen prüfen – Faktencheck",
+ "kurzname": "dr-spa-faktencheck",
+ "seiten": [
+  {
+   "datei": "g1-gezielt-suchen.html",
+   "art": "modul",
+   "id": "g1",
+   "titel": "Gezielt suchen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g2-quellen-bewerten.html",
+   "art": "modul",
+   "id": "g2",
+   "titel": "Quellen bewerten",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g3-fake-news-erkennen.html",
+   "art": "modul",
+   "id": "g3",
+   "titel": "Fake News erkennen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "gm-meilenstein-quellencheck.html",
+   "art": "modul",
+   "id": "gm",
+   "titel": "Meilenstein: Quellencheck",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b1-mythen-aus-social-media.html",
+   "art": "modul",
+   "id": "b1",
+   "titel": "Mythen aus Social Media",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b2-faktencheck-bildschirmzeit-und-schlaf.html",
+   "art": "modul",
+   "id": "b2",
+   "titel": "Faktencheck Bildschirmzeit und Schlaf",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b3-faktencheck-ernahrung.html",
+   "art": "modul",
+   "id": "b3",
+   "titel": "Faktencheck Ernährung",
+   "review": "geprueft"
+  },
+  {
+   "datei": "bm-meilenstein-faktencheck-karte-fur-eltern.html",
+   "art": "modul",
+   "id": "bm",
+   "titel": "Meilenstein: Faktencheck-Karte für Eltern",
+   "review": "geprueft"
+  },
+  {
+   "datei": "spickzettel.html",
+   "art": "seite",
+   "titel": "Spickzettel: Faktencheck"
+  },
+  {
+   "datei": "lehrkraefte.html",
+   "art": "lehrkraft",
+   "titel": "Für Lehrkräfte"
+  },
+  {
+   "datei": "index.html",
+   "art": "index",
+   "titel": "Übersicht"
+  },
+  {
+   "datei": "start.html",
+   "art": "start",
+   "titel": "🧭 Mein Lernpfad – hier geht's los"
+  },
+  {
+   "datei": "einstufung-im-beruf.html",
+   "art": "einstufung",
+   "titel": "🎯 Einstufungstest: direkt zu Im Beruf",
+   "stufe": "im-beruf",
+   "bestehen": 80
+  }
+ ]
+}

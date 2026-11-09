@@ -1,0 +1,56 @@
+# Kursbeschreibung – Informationen prüfen: Faktencheck (DR-Materialpool SPA, Querschnitts-Lernpfad K4)
+titel: Informationen prüfen – Faktencheck
+kurzname: dr-spa-faktencheck
+ueberschrift: Informationen prüfen – Faktencheck
+untertitel: Sie lernen, Informationen gezielt zu suchen, Quellen zu bewerten und Falschinformationen zu erkennen – auch bei Erziehungstipps aus sozialen Medien.
+badges: [SPA, K4 Informationen, "2 Stufen · ca. 5,5 Std."]
+fusszeile: BBZ Rendsburg-Eckernförde · Abteilung SPA · Materialpool Digitaler Raum · Stand 11/2026
+logo_zeichen: "?"
+sprache: de
+anrede: sie
+notizfrage: "Was nehmen Sie mit – für Ihren eigenen Umgang mit Informationen und für Ihre Arbeit in Kita, OGS oder Grundschule?"
+
+einleitung: |
+  :::notiz 👉 Worum geht es?
+  Jeden Tag begegnen Ihnen Informationen: in Nachrichten, in sozialen Medien, in Gesprächen. Nicht alles stimmt. Als Fachkraft geben Sie Informationen an **Eltern und Team** weiter – deshalb müssen sie verlässlich sein.
+
+  Stufe 1 **Grundlagen** übt das Suchen, Bewerten und Prüfen. Stufe 2 **Im Beruf** prüft Erziehungsmythen aus sozialen Medien. Jede Stufe passt in einen DR-Tag.
+  :::
+
+  :::tipp So arbeiten Sie mit dem Lernpfad
+  1. Machen Sie zuerst den **Selbstcheck** unten.
+  2. Arbeiten Sie die Module einer Stufe der Reihe nach durch.
+  3. Alle Beispiel-Posts und Meldungen in diesem Lernpfad sind **erfunden**.
+  :::
+
+stufen:
+  - id: grundlagen
+    name: Grundlagen
+    icon: "🌱"
+    text: Gezielt suchen, Quellen bewerten, Fake News erkennen.
+    module: [g1, g2, g3, gm]
+  - id: im-beruf
+    name: Im Beruf
+    icon: "🚀"
+    text: Erziehungsmythen aus sozialen Medien prüfen – zu Bildschirmzeit, Schlaf und Ernährung.
+    module: [b1, b2, b3, bm]
+
+selbstcheck:
+  fragen:
+    - frage: Ich finde im Internet schnell verlässliche Informationen zu einer Frage.
+      antworten: [Selten, Manchmal, Meistens, Fast immer]
+    - frage: Ich prüfe, wer hinter einer Webseite oder einem Post steckt.
+      antworten: [Nie, Manchmal, Meistens, Immer]
+    - frage: Ich erkenne Falschmeldungen und manipulierte Bilder.
+      antworten: [Kaum, Manchmal, Meistens, Fast immer]
+  empfehlung:
+    - {bis: 6, stufe: grundlagen, hinweis: "Starten Sie mit den Grundlagen – Modul G1."}
+    - {stufe: im-beruf, hinweis: "Sie haben schon gute Grundlagen. Machen Sie den Einstufungstest – dann geht es weiter mit „Im Beruf“."}
+
+einstufung: {bestehen: 80}
+
+moodle:
+  version: 5
+  freischaltung: einstufung
+  reihenfolge: nacheinander
+  raster_punkte: [0, 2, 3]

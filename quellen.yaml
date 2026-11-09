@@ -1,0 +1,64 @@
+# Quellen mit Prüfstatus – siehe referenzen/qualitaet.md
+- id: q-kindergesundheit
+  titel: kindergesundheit-info.de – Bundesinstitut für Öffentliche Gesundheit (BIÖG, bis 2025 BZgA)
+  url: https://www.kindergesundheit-info.de
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "öffentliches Gesundheitsportal für Eltern und Fachkräfte; BZgA firmiert seit Februar 2025 als BIÖG"
+- id: q-bildungsserver
+  titel: Deutscher Bildungsserver
+  url: https://www.bildungsserver.de
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "öffentlich gefördertes Bildungsportal"
+- id: q-klicksafe-fakenews
+  titel: klicksafe – Fake News
+  url: https://www.klicksafe.de/desinformation-und-meinung/fake-news
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Definition Fake News/Desinformation; Tipps: Quelle, Fakten, Bilder, Aktualität prüfen; Faktencheck-Portale CORRECTIV, MIMIKAMA, ARD-Faktenfinder, #Faktenfuchs, dpa-Faktenchecks"
+- id: q-medienanstalten-werbung
+  titel: Die Medienanstalten – Leitfaden Werbekennzeichnung bei Online-Medien
+  url: https://www.die-medienanstalten.de/service/merkblaetter-und-leitfaeden/leitfaden-werbekennzeichnung-bei-online-medien/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Kennzeichnung mit „Werbung“ oder „Anzeige“; englische Begriffe wie „ad“ oder „sponsored“ nach Auffassung der Medienanstalten nicht ausreichend"
+- id: q-awmf-s2k
+  titel: S2k-Leitlinie „Prävention dysregulierten Bildschirmmediengebrauchs in Kindheit und Jugend“ (AWMF 027-075, 2023)
+  url: https://register.awmf.org/assets/guidelines/027-075l_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2023-09.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "unter 3 keine; 3–6 max. 30 Min.; 6–9 ca. 30–45 Min.; nicht zum Beruhigen/Belohnen/Bestrafen; beim Essen aus (geprüft über Ärzte Zeitung)"
+- id: q-aerztezeitung-s2k
+  titel: Ärzte Zeitung – Neue S2k-Leitlinie – Die Kleinsten sollten bildschirmfrei bleiben
+  url: https://www.aerztezeitung.de/Medizin/Neue-S2k-Leitlinie-Die-Kleinsten-sollten-bildschirmfrei-bleiben-443093.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Altersempfehlungen der S2k-Leitlinie"
+- id: q-bioeg-zeit
+  titel: BIÖG – Broschüre „Zeit für Digitales – Medien und Digitales“ (Elterninfo, 2026)
+  url: https://www.ins-netz-gehen.de/fileadmin/user_upload/Materialien/2026_BI%C3%96G_Brosch%C3%BCre_Zeit_f%C3%BCr_Digitales_Medien_und_Digitales_Elterninfo.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Bildschirme morgens vor der Schule, bei Mahlzeiten und eine Stunde vor dem Schlafengehen aus (über Suchergebnis geprüft; gleiche Regel im kindergesundheit-info-Merkblatt 2020)"
+- id: q-wolraich
+  titel: "Wolraich, Wilson, White (1995): The effect of sugar on behavior or cognition in children. A meta-analysis. JAMA 274(20): 1617–1621"
+  url: https://pubmed.ncbi.nlm.nih.gov/7474248/
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "23 Studien aus 16 Berichten; kein Effekt von Zucker auf Verhalten oder kognitive Leistung von Kindern"
+- id: q-vz-kinderlebensmittel
+  titel: Verbraucherzentrale – Kinderlebensmittel – Extrawurst für den Nachwuchs?
+  url: https://www.verbraucherzentrale.de/wissen/lebensmittel/gesund-ernaehren/kinderlebensmittel-extrawurst-fuer-den-nachwuchs-10725
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Kinder brauchen keine speziellen Lebensmittel; Kindermilchprodukte viel Zucker; Calcium-Anreicherung überflüssig; Wasser bester Durstlöscher; Süßstoffgetränke keine gute Alternative"
