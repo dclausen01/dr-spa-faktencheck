@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Quellencheck"
 minuten: 30
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - eine Webseite mit dem Prüfschema bewerten,

@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Faktencheck-Karte für Eltern"
 minuten: 60
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - einen Erziehungsmythos selbstständig mit Fachquellen prüfen,

@@ -30,5 +30,7 @@ Querschnitts-Lernpfad **K4 „Informationen suchen und bewerten“** aus dem Mat
 
 ## Fachliche Hinweise
 
+- **Rollenklarheit:** Die Schüler:innen prüfen Behauptungen und verweisen auf Fachstellen – sie geben keine eigenen medizinischen Einschätzungen ab. Das steht ausdrücklich in G1, B2 und B3. Der Suchauftrag in G1 ist pädagogisch (Eingewöhnung).
+
 - **Zucker und Hyperaktivität:** Metaanalyse Wolraich et al. 1995 (JAMA) – kein Effekt. Eine spätere Leserzuschrift merkte an, dass einzelne empfindliche Kinder im Mittelwert untergehen könnten. Für Schüler:innen bewusst vereinfacht; die Botschaft „trotzdem Zucker begrenzen“ ist im Modul enthalten.
 - **Schlaf:** Das BIÖG empfiehlt „eine Stunde vor dem Schlafengehen Bildschirme aus“. Die Stiftung Kindergesundheit nennt strenger zwei bis drei Stunden – ein guter Anlass, über unterschiedliche Fachquellen zu sprechen.
